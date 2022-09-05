@@ -11,6 +11,7 @@
 найденной строкой и инкрементирую переменную-счетчик
 * Возвращаю новый массив из строк, которые соответсвуют условию задачи
 
-## Ссылка на блок-схему:
-[Блок-схема алгоритма](https://github.com/PyankovPavel/cSharp_FinalTask/blob/main/BlockScheme.drawio.svg)
+## Ссылки:
+[Блок-схема алгоритма](https://github.com/PyankovPavel/cSharp_FinalTask/blob/main/BlockScheme.drawio.svg)  
+[Код решения задачи](https://github.com/PyankovPavel/cSharp_FinalTask/blob/main/Program.cs)
 
